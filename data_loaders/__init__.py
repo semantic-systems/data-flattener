@@ -1,1 +1,2 @@
 from data_loaders.data_loader_maven import DataLoaderMAVEN
+from data_loaders.data_loader_trec_is import DataLoaderTRECIS

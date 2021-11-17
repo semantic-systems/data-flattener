@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+.DS_Store
+*/__pycache__/
+*.pyc
+*.cpython-37.pyc
