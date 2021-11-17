@@ -1,6 +1,6 @@
-# Data Acquisition
+# Data Flattener
 
-a centralized repo to acquire and preprocess (?) various datasets in various settings (regular supervised batch training, few shot episodic training ...)
+a centralized repo to read and flatten various datasets from nested data (in .xml, .json etc.) to dataframe
 
 
 # Architecture
